@@ -2,8 +2,8 @@
   
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/chrisvilla1301/Active-Directory-Lab/blob/main/README.md)
+  - [Hello World!]()
 
 
 [Linkedin]: 
