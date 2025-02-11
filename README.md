@@ -6,7 +6,7 @@
   - [Hello World!]()
 
 
-[Linkedin]: 
+[Linkedin]: www.linkedin.com/in/christian-villasenor-244779228
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
