@@ -11,4 +11,5 @@
 
 - <h2> Connect with me:</h2>
 
- - [LinkedIn](www.linkedin.com/in/christian-villasenor-244779228)
+ - LinkedIn: www.linkedin.com/in/christian-villasenor-244779228
+
