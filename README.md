@@ -8,7 +8,7 @@
 - <b>Creating a Linux Virtual Machine using Oracle Virtual Box: </b>
     - [Create Linux Virtual Machine Lab](https://github.com/chrisvilla1301/Ubuntusetup/blob/main/README.md) - <b><i>(Ubuntu)</b></i>
 
-- <b>Making an Ethernet Cable (RJ45): </b>
+- <b>Making an Ethernet Cable: </b>
     - [Making an Ethernet Cable Lab](     ) - <b><i>(Cat5 / Cat6 RJ45 Network Cable) (IN PROGRESS)</b></i> 
     
 <h2>Certifications</h2>
