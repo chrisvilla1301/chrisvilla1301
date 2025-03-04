@@ -9,7 +9,7 @@
     - [Create Linux Virtual Machine Lab](https://github.com/chrisvilla1301/Ubuntusetup/blob/main/README.md) - <b><i>(Ubuntu)</b></i>
 
 - <b>Making an Ethernet Cable (RJ45): </b>
-    - [Making an Ethernet Cable Lab](     ) - <b><i>(RJ45 / Network Cable)</b></i>
+    - [Making an Ethernet Cable Lab](     ) - <b><i>(RJ45 / Network Cable) (IN PROGRESS)</b></i> 
     
 <h2>Certifications</h2>
 
